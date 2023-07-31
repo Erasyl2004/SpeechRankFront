@@ -66,7 +66,7 @@ export default function UploadFile () {
                                 <div className="flex justify-center pt-2">
                                     <div className="flex justify-center items-center pt-4 w-[27rem] h-[26rem] bg-[#F8F8FF] border-2 rounded-md border-dashed border-[#384EB7]">
                                         <div className="flex justify-center flex-wrap">
-                                            <img className="pb-8" src="../public/Upload_icon.png"></img>
+                                            <img className="pb-8" src="/Upload_icon.png"></img>
                                             <div className="w-full text-center">
                                                 {!selectedFile && (
                                                 <span>

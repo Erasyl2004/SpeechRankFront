@@ -73,7 +73,7 @@ export default function LandingPage (){
                                                        <p className=" pr-8 text-6xl font-mono font-bold text-[#4169E1]">""</p>
                                                   </div>
                                                   <div className="flex justify-center items-center">
-                                                       <img src="../public/avatar1.jpg" className="inline relative rounded-full w-[12rem] h-[12rem]"/>
+                                                       <img src="/avatar1.jpg" className="inline relative rounded-full w-[12rem] h-[12rem]"/>
                                                        <p className="text-[#666666] text-left text-xl font-mono pl-8">Это очень крутое приложение, на самом деле у него <br /> красивый дизайн просто я не говорю это Ерасылу <br /> потому что ученики не должны превосходит учителей !!!</p>
                                                   </div>
                                              </motion.div>
@@ -85,7 +85,7 @@ export default function LandingPage (){
                                                        <p className=" pr-8 text-6xl font-mono font-bold text-[#4169E1]">""</p>
                                                   </div>
                                                   <div className="flex justify-center items-center">
-                                                       <img src="../public/nurali.png" className="inline relative rounded-full w-[12rem] h-[12rem]"/>
+                                                       <img src="/nurali.png" className="inline relative rounded-full w-[12rem] h-[12rem]"/>
                                                        <p className="text-[#666666] text-left text-xl font-mono pl-8">Мне все понравилось заработал милион долларов<br />благодаря этому сайту, Ерасыл большой молодец,<br/>мой любимый сайт и я всех булю потому что я бублик</p>
                                                   </div>
                                              </motion.div>
