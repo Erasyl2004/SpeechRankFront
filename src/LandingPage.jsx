@@ -168,7 +168,7 @@ export default function LandingPage (){
                     </div>
                </div>
           </span>
-          <div className="flex items-center pt-4 justify-center lg:hidden">
+          <div className="flex items-center pt-6 justify-center lg:hidden">
                     <div className="">
                         <text className="font-mono text-[#222222] text-xl md: font-bold">Speech</text>
                         <text className="font-mono text-[#4169E1] text-xl md: font-bold">Rank</text>
